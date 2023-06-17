@@ -1,7 +1,7 @@
 # ColecDictionary
 ![NicaraguaFlagOfNicaraguaGIF](https://www.inide.gob.ni/docu/imagesnew/monografiadep.png)
 ## 📋Proyecto
-##¿Qué hace?
+## ¿Qué hace?
 Este proyecto es una aplicación de consola que permite visualizar los departamentos de Nicaragua junto con su cantidad poblacional. Además, encuentra el departamento con la mayor y menor población, ordena los datos y realiza la suma de todas las poblaciones.
 
 ## 🌟Características principales
