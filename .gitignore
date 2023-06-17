@@ -22,3 +22,5 @@ ColectDictionary/obj/Debug/**/*.*
 
 # Ignorar archivos de tipo PDB
 *.pdb
+
+.cache/
